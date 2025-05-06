@@ -11,11 +11,11 @@
 ###
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
 🌱 I'm currently interested in **Networking**<br><br>
-💻 Sometimes I work on a <a href="https://github.com/ATOMIC09?tab=repositories" target="_blank" rel="noreferrer"><strong>public project</strong></a><br><br>
-🎙️ I'm a voice narrator and video editor of <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg" target="_blank" rel="noreferrer"><strong>der</strong></a><br><br>
-😪 And I'm also a lazy <a href="https://www.youtube.com/channel/UCr7JiLK-AVQoXAOEWHpHhlg" target="_blank" rel="noreferrer"><strong>video editor</strong></a><br><br>
-🤣 Fun fact <a href="https://youtu.be/QqjGi20qmVQ" target="_blank" rel="noreferrer"><strong>Meme maker?</strong></a><br><br>
-🖼️ Profile credit is <a href="https://www.miyoushe.com/ys/article/47924217" target="_blank" rel="noreferrer"><strong>here</strong></a>
+💻 Sometimes I work on a [**public project**](https://github.com/ATOMIC09?tab=repositories)<br><br>
+🎙️ I'm a voice narrator and video editor of [**der**](https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg)<br><br>
+😪 And I'm also a lazy [**video editor**](https://www.youtube.com/channel/UCr7JiLK-AVQoXAOEWHpHhlg)<br><br>
+🤣 Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
+🖼️ Profile credit is [**here**](https://www.miyoushe.com/ys/article/47924217)
 
 <details open>
 <summary><h1 align="center">📈 Stack & Statistics</h1></summary>
@@ -101,7 +101,7 @@ JSON              5 hrs 43 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img src="https://profile-counter.glitch.me/ATOMIC09/count.svg" />
     <h6 align="center">ต้องมีสักอันที่ถูกแหละนะ</h6>
     <img height="200" width="200" src="https://github.com/ATOMIC09/ATOMIC09/assets/66838025/ea020e0e-efb8-4382-97cf-1ebaaff93663" />
-    <h6 align="center">ว่าแต่ใครทำอะไรจน 2 ล้านวิววะนั่น🗿</h6>
+    <h6 align="center">ว่าแต่ใครทำอะไรจน 2 ล้านวิวฟระนั่น 🗿</h6>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=66838025)
