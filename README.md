@@ -11,11 +11,11 @@
 ###
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
 🌱 I'm currently interested in **Networking**<br><br>
-💻 Sometimes I work on a [**public project**](https://github.com/ATOMIC09?tab=repositories)<br><br>
-🎙️ I'm a voice narrator and video editor of [**der**](https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg)<br><br>
-😪 And I'm also a lazy [**video editor**](https://www.youtube.com/channel/UCr7JiLK-AVQoXAOEWHpHhlg)<br><br>
-🤣 Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
-🖼️ Profile credit is [**here**](https://www.miyoushe.com/ys/article/47924217)
+💻 Sometimes I work on a <a href="https://github.com/ATOMIC09?tab=repositories" target="_blank" rel="noreferrer"><strong>public project</strong></a><br><br>
+🎙️ I'm a voice narrator and video editor of <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg" target="_blank" rel="noreferrer"><strong>der</strong></a><br><br>
+😪 And I'm also a lazy <a href="https://www.youtube.com/channel/UCr7JiLK-AVQoXAOEWHpHhlg" target="_blank" rel="noreferrer"><strong>video editor</strong></a><br><br>
+🤣 Fun fact <a href="https://youtu.be/QqjGi20qmVQ" target="_blank" rel="noreferrer"><strong>Meme maker?</strong></a><br><br>
+🖼️ Profile credit is <a href="https://www.miyoushe.com/ys/article/47924217" target="_blank" rel="noreferrer"><strong>here</strong></a>
 
 <details open>
 <summary><h1 align="center">📈 Stack & Statistics</h1></summary>
