@@ -1,16 +1,11 @@
-<h1 align="center">"Hello guys Today I have a list of ..."</h1>
+<h1 align="center">"Hello guys, Today I have a list of ..."</h1>
 <h6 align="center">If you send a friend request, please let me know your Discord username. I think I have too many scam friend requests :/</h6>
 <br>
 <div align="center">
-  <a href="https://discords.com/bio/p/atomic09" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"  />
-  </a>
-  <a href="https://wakatime.com/@018d9e20-7204-40cc-9d2f-4231bc99a8de" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/018d9e20-7204-40cc-9d2f-4231bc99a8de.svg" alt="Total time coded since Feb 12 2024" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=Subscribe!&style=social" alt="derYouTube"  />
-  </a>
+  <a href="https://discords.com/bio/p/atomic09" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"  /></a>
+  <a href="https://wakatime.com/@018d9e20-7204-40cc-9d2f-4231bc99a8de" target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/018d9e20-7204-40cc-9d2f-4231bc99a8de.svg" alt="Total time coded since Feb 12, 2024" /></a>
+  <a href="https://github.com/ATOMIC09#other"><img src="https://komarev.com/ghpvc/?username=atomic09&label=visitors&color=3a87fe&style=flat" alt="atomic09" /></a>
+  <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=Subscribe!&style=social" alt="derYouTube"  /></a>
 </div>
 
 ###
@@ -37,7 +32,6 @@
 | Home Automation | Network / Storage | Operating Systems |
 | --------------- | ----------------- | ----------------- |
 | <img src="https://www.home-assistant.io/images/favicon-192x192.png" width="40" height="40"/> <img src="https://github.com/user-attachments/assets/5149631d-a7c3-471b-b4c7-816d2a6da2e9" width="40" height="40"/> <img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/refs/heads/master/svg/mqtt-ver.svg" width="40" height="40"/> | <img src="https://github.com/user-attachments/assets/a8c12e40-db71-41de-9c7f-2e66b04b9f42" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1280px-Windows_logo_-_2021.svg.png" width="40" height="40"/> <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="40" height="40"/> <img src="https://www.kali.org/docs/policy/trademark/kali-dragon-tm.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg" width="40" height="40"/> |
-
 
 <img src="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/output/snake.svg" alt="Snake animation" />
 </div>
