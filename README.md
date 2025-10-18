@@ -15,7 +15,7 @@
 🎙️ I'm a voice narrator and video editor of [**der**](https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg)<br><br>
 😪 And I'm also a lazy [**video editor**](https://www.youtube.com/channel/UCr7JiLK-AVQoXAOEWHpHhlg)<br><br>
 🤣 Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
-🖼️ Profile credit is [**here**](https://www.pixiv.net/en/artworks/134156383)
+🖼️ Profile credit is [**here**](https://www.pixiv.net/en/artworks/131699262)
 
 <details open>
 <summary><h1 align="center">📈 Stack & Statistics</h1></summary>
