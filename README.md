@@ -14,13 +14,6 @@
 💻 Sometimes I work on a [**public project**](https://github.com/ATOMIC09?tab=repositories)<br><br>
 🖼️ Profile credit is [**here**](https://www.pixiv.net/en/artworks/131699262)
 
-<h1>📌 Featured Projects</h1>
-
-**[RuamLem](https://github.com/ATOMIC09/RuamLem)** — RAG-based Q&A + AI content moderation/guardrails platform for university students (Next.js, Azure OpenAI, Supabase)<br><br>
-**[YuukaDiscordBot](https://github.com/ATOMIC09/YuukaDiscordBot)** — AI voice/chat assistant, LangChain agent with 30+ tool integrations, Whisper STT/TTS<br><br>
-**[KNACKSAT On-Board Computer](https://github.com/PS-Open-Fruit/OBC_SpaceFruit)** — CubeSat on-board computer (STM32L4), RI2C 2026 Best Paper Award<br><br>
-**[TESA Top Gun Rally 2025](https://github.com/PS-Open-Fruit/AI-Drone-Detection)** — AI drone detection & tracking (YOLO11-OBB, OpenCV), 5th place, Defence Innovations & Edge Computing
-
 <details open>
 <summary><h1>📈 Stack & Statistics</h1></summary>
 <div align="center">
