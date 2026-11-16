@@ -12,7 +12,6 @@
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
 🌱 I'm currently interested in **AI/LLM Applications, Software Engineering, Cloud, Cybersecurity, Embedded Systems, and "good" open-source**<br><br>
 💻 Sometimes I work on a [**public project**](https://github.com/ATOMIC09?tab=repositories)<br><br>
-🖼️ Profile credit is [**here**](https://www.pixiv.net/en/artworks/131699262)
 
 <details open>
 <summary><h1>📈 Stack & Statistics</h1></summary>
