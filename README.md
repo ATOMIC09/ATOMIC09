@@ -34,9 +34,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&username=ATOMIC09" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atomic09&theme=dark&hide_border=true&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&username=ATOMIC09" height="150" alt="github stats"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="most used languages"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atomic09&theme=dark&hide_border=true&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="streak"  />
   <img src="./profile-3d-contrib/profile-customize.svg"  />
 </div>
 
