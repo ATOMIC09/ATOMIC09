@@ -1,5 +1,5 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&color=00A3F7&background=FF000000&center=true&vCenter=true&repeat=false&width=485&height=29&lines=%22+Hello+guys%2C+Today+I+have+a+list+of+...+%22" alt="Typing SVG" /></div>
-<h6 align="center">If you send a friend request, please let me know your Discord username. I think I have too many scam friend requests :/</h6>
+<h6 align="center">If you send a Discord friend request, please let me know your username. I think I have too many scam friend requests :/</h6>
 <br>
 <div align="center">
   <a href="https://discords.com/bio/p/atomic09" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"  /></a>
@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&username=ATOMIC09" height="150" alt="github stats"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="most used languages"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&size_weight=0.5&count_weight=0.5&username=ATOMIC09" height="150" alt="most used languages"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atomic09&theme=dark&hide_border=true&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="streak"  />
   <img src="./profile-3d-contrib/profile-customize.svg"  />
 </div>
